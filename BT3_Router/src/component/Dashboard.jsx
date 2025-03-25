@@ -8,10 +8,10 @@ const Dashboard = () => {
       <nav>
         <ul>
           <li>
-            <Link to="/dashboard/profile">Profile</Link>
+            <Link to="/profile">Profile</Link>
           </li>
           <li>
-            <Link to="/dashboard/setting">Setting</Link>
+            <Link to="/setting">Setting</Link>
           </li>
         </ul>
       </nav>
